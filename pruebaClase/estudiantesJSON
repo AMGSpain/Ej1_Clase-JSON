@@ -1,0 +1,1 @@
+{"alumnos": [{"email": "estudiante01@gmail.com", "password": "estudiant01", "nombre": "Antonio", "apellidos": "Martinez Gonzalez", "nota": 5.0, "asignatura": "Sociologia"}, {"email": "estudiante02@gmail.com", "password": "estudiante02", "nombre": "estudiante", "apellidos": "02", "nota": 5.2, "asignatura": "matematicas"}]}
